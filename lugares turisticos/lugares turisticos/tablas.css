@@ -1,0 +1,14 @@
+.style-table {
+
+	border-collapse: collapse;
+	margin: 25px 0px;
+	font-size: 1rem;
+	font-family: arial;
+	min-width: 500px;
+	box-shadow: 0 0 20px rgb(0, 0, 0, 0.15);
+
+}
+.style-table thead tr {
+	background-color: #ff0095;
+	color: #fff;}
+.style-table  thead tr
